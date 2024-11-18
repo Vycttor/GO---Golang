@@ -3,9 +3,7 @@ package main
 
 import "fmt"
 
-func main()  {
-	
-	
+func aprendendo_printing()  {
 	//fmt.Printf("Hello %T %v", 10, 10)
 	//fmt.Printf("Numero: %b", 102514) // Representação binária.
 	//fmt.Printf("Numero: %d", 2536)// Representação decimal
